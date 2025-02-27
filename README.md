@@ -1,6 +1,5 @@
 # Simulation-of-Two-Robots-Sharing-a-Workspace-Using-MATLAB
 
-# Simulation of Two Robots Sharing a Workspace Using MATLAB
 
 This repository contains the MATLAB code and simulation for a project that demonstrates the coordination of two robots (an industrial robotic arm and a mobile robot) sharing a workspace. The project focuses on motion planning, collision avoidance, and task synchronization between the two robots.
 
